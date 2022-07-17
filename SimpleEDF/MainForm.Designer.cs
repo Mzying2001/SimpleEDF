@@ -170,7 +170,7 @@ namespace SimpleEDF
             this.Controls.Add(this.panel1);
             this.Name = "MainForm";
             this.Padding = new System.Windows.Forms.Padding(8);
-            this.Text = "Sinple EDF Viewer";
+            this.Text = "Simple EDF Viewer";
             this.groupBox2.ResumeLayout(false);
             this.edfHeaderPanel.ResumeLayout(false);
             this.edfHeaderPanel.PerformLayout();
